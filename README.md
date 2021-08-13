@@ -1,4 +1,4 @@
 # Tetris
 Tetris Game (with Python 3.X + PyGame)
 
-In building...
+En construction... (c'est le désordre :p)
